@@ -1,0 +1,104 @@
+.div{
+    display: flex;
+    justify-content: space-around;
+}
+.div1{
+    width: 220px;
+    height: 220px;
+    background-color: purple;
+    display: flex;
+    border-radius: 10px;
+    justify-content: space-around;
+}
+.div2{
+    width: 35px;
+    height: 35px;
+    border-radius: 10px;
+    background-color: orange;
+    border: 5px solid purple;
+}
+.div3{
+    width: 220px;
+    height: 220px;
+    background-color: purple;
+    border-radius: 10px;
+    align-items: start;
+}
+.div4{
+    width: 220px;
+    height: 220px;
+    background-color: purple;
+    border-radius: 10px;
+}
+.sub-div{
+    display: flex;
+    justify-content: start;
+    flex-wrap: wrap;
+}
+.div5{
+    width: 220px;
+    height: 220px;
+    background-color: purple;
+    display: flex;
+    border-radius: 5px;
+    justify-content: start;
+}
+.div6{
+    width: 220px;
+    height: 220px;
+    background-color: purple;
+    display: flex;
+    border-radius: 5px;
+    justify-content: start;
+}
+.div7{
+    width: 220px;
+    height: 220px;
+    background-color: purple;
+    display: flex;
+    border-radius: 5px;
+    justify-content: center;
+}
+.div8{
+    width: 220px;
+    height: 220px;
+    background-color: purple;
+    display: flex;
+    border-radius: 5px;
+    justify-content: space-between;
+}
+
+.div9{
+    width: 220px;
+    height: 220px;
+    background-color: purple;
+    display: flex;
+    border-radius: 5px;
+    justify-content: start;
+}       
+.div10{
+    width: 220px;
+    height: 220px;
+    background-color: purple;
+    display: flex;
+    border-radius: 5px;
+    flex-direction: end;
+    align-items: end;
+}   
+.div11{
+    width: 220px;
+    height: 220px;
+    background-color: purple;
+    display: flex;
+    border-radius: 5px;
+    justify-content: start;
+    align-items: center;
+}   
+.div12{
+    width: 220px;
+    height: 220px;
+    background-color: purple;
+    display: flex;
+    border-radius: 5px;
+    justify-content: space-around;
+}
